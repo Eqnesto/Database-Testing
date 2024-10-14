@@ -6,7 +6,7 @@ This repository contains automated tests for the database of a task management s
 
 1. Clone repository:
    ```shell
-   git clone https://github.com/Eqnesto/Project.git
+   git clone https://github.com/Eqnesto/Database-Testing
    ```
 1. Install [Python](https://www.python.org/downloads/).
 1. Open folder in [Visual Studio Code](https://code.visualstudio.com/download).
